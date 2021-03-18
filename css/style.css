@@ -550,7 +550,8 @@
      font-weight: 500;
      line-height: 40px;
      color: #191918;
-     padding: 20px 0px;
+     margin-top: 30px;
+     padding: 10px 0px;
 }
  .title span {
     color: #191918;
