@@ -640,12 +640,12 @@
 /*--------------------------------------------------------------------- footer ---------------------------------------------------------------------*/
  .footer {
      background: #3ba521;
-     padding-top:90px;
-     margin-top: 90px;
+     padding-top:50px;
+     margin-top: 50px;
 }
  .footer h2 {
      color: #000;
-     font-size: 40px;
+     font-size: 50px;
      font-weight: 500;
      padding-left: 223px;
      padding-bottom: 0px;
@@ -716,6 +716,7 @@
      line-height: 27px;
      padding: 0px 25px;
      font-weight: 500;
+     text-align: justify;
 }
  ul.lik li a:hover {
      color: #fff;
